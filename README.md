@@ -1,2 +1,2 @@
 # CodeAlpha_portfiliotracker
-The Portfolio Tracker is a simple Python project developed during my internship to help users manage their investments. It allows users to add asset details like name, quantity, and price, and calculates the total value of the portfolio.
+The Portfolio Tracker is a simple Python project developed during my internship to help users manage their investments. It allows users to add asset details like name, quantity, and price, and calculates the total value of the portfolio.This project uses basic Python concepts like loops, functions, and user input, and shows how they can be used to build a useful real-world application.
